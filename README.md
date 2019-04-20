@@ -3,7 +3,7 @@ This repository belongs to a gallery website in which there are different catego
 quality and you can easily download it with one click. This website is designed in HTML and CSS at beginer level.
 
 **Following is the URL of our website that you can click on it and visit our website.**  
-https://sooraj-kumar.github.io/SKK-gallery/
+https://sooraj-kumar.github.io/kingkorica/
 
 **Group Members**
 * **SOORAJ KUMAR** (2k17-CSEE-103)
